@@ -1,4 +1,3 @@
-# LABORATORIOS-MODULO-VI-SOIII-
 #!/bin/bash
 # Instalar gpg2
 sudo apt update && sudo apt install gnupg2  # Debian/Ubuntu
